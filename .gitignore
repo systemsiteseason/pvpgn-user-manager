@@ -267,3 +267,4 @@ phpunit.phar
 /backend/web/robots.txt
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,linux,windows,yii2,composer,jetbrains+all,phpstorm+all
+/pvpgn-user-manager.sln

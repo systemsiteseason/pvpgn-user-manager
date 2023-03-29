@@ -35,9 +35,11 @@
     },
     "config": {
         "process-timeout": 1800,
+		"allow-plugins": true,
         "fxp-asset": {
             "enabled": false
         }
+		
     },
     "scripts": {
         "post-install-cmd": [
